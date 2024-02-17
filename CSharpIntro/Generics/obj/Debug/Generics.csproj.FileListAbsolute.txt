@@ -1,0 +1,7 @@
+E:\IkinciHaftaIkinciOdev\CSharpIntro\Generics\bin\Debug\Generics.exe.config
+E:\IkinciHaftaIkinciOdev\CSharpIntro\Generics\bin\Debug\Generics.exe
+E:\IkinciHaftaIkinciOdev\CSharpIntro\Generics\bin\Debug\Generics.pdb
+E:\IkinciHaftaIkinciOdev\CSharpIntro\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+E:\IkinciHaftaIkinciOdev\CSharpIntro\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+E:\IkinciHaftaIkinciOdev\CSharpIntro\Generics\obj\Debug\Generics.exe
+E:\IkinciHaftaIkinciOdev\CSharpIntro\Generics\obj\Debug\Generics.pdb

@@ -1,0 +1,7 @@
+D:\IkinciHaftaIkinciOdev\CSharpIntro\Interfaces\bin\Debug\Interfaces.exe.config
+D:\IkinciHaftaIkinciOdev\CSharpIntro\Interfaces\bin\Debug\Interfaces.exe
+D:\IkinciHaftaIkinciOdev\CSharpIntro\Interfaces\bin\Debug\Interfaces.pdb
+D:\IkinciHaftaIkinciOdev\CSharpIntro\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\IkinciHaftaIkinciOdev\CSharpIntro\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\IkinciHaftaIkinciOdev\CSharpIntro\Interfaces\obj\Debug\Interfaces.exe
+D:\IkinciHaftaIkinciOdev\CSharpIntro\Interfaces\obj\Debug\Interfaces.pdb
