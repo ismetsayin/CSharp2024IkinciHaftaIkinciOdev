@@ -1,0 +1,7 @@
+E:\IkinciHaftaIkinciOdev\CSharpIntro\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+E:\IkinciHaftaIkinciOdev\CSharpIntro\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+E:\IkinciHaftaIkinciOdev\CSharpIntro\LinqProject\bin\Debug\LinqProject.exe.config
+E:\IkinciHaftaIkinciOdev\CSharpIntro\LinqProject\bin\Debug\LinqProject.exe
+E:\IkinciHaftaIkinciOdev\CSharpIntro\LinqProject\bin\Debug\LinqProject.pdb
+E:\IkinciHaftaIkinciOdev\CSharpIntro\LinqProject\obj\Debug\LinqProject.exe
+E:\IkinciHaftaIkinciOdev\CSharpIntro\LinqProject\obj\Debug\LinqProject.pdb

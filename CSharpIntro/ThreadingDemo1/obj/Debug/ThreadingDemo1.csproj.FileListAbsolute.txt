@@ -1,0 +1,10 @@
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\bin\Debug\ThreadingDemo1.exe.config
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\bin\Debug\ThreadingDemo1.exe
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\bin\Debug\ThreadingDemo1.pdb
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\obj\Debug\ThreadingDemo1.csproj.AssemblyReference.cache
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\obj\Debug\ThreadingDemo1.Form1.resources
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\obj\Debug\ThreadingDemo1.Properties.Resources.resources
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\obj\Debug\ThreadingDemo1.csproj.GenerateResource.cache
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\obj\Debug\ThreadingDemo1.csproj.CoreCompileInputs.cache
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\obj\Debug\ThreadingDemo1.exe
+E:\IkinciHaftaIkinciOdev\CSharpIntro\ThreadingDemo1\obj\Debug\ThreadingDemo1.pdb
